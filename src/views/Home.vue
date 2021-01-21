@@ -2,7 +2,7 @@
 	<div class="home">
 		<img alt="Vue logo" src="../assets/logo.png" />
 		<HelloWorld msg="Welcome to Your Vue.js App" />
-		<span>666</span>
+		<span>新的分支</span>
 		<echarts width="500px" height="300px" :option="myOption"></echarts>
 	</div>
 </template>
